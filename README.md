@@ -26,7 +26,7 @@ string balance = [Class].GetBalance(); // return money in the balance
 string zbalance = [Class].GetZBalance(); // return money in the ZBalance
 ```
 
-### [Number]()
+### [Number](https://github.com/DiscordFucker/OnlineSIM-wrapper/#code-number)
 ```cs
 string tzid = [Class].CreateTZID(discord, 7); // Create TZID (really important) & return TZID
 ```
