@@ -43,6 +43,20 @@ string code = [Class].GetReceivedCode(tzid) // return received code
 
 | Alias1  | Alias2 | Service |
 |----|---|----|
-| zd |   | dz |
-|    |   |    |
-|    |   |    |
+| VKcom | vk | Вконтакте |
+| 3223 | facebook | Facebook |
+| MailRu | mailru | MailRu |
+| Odklru | classmates | Одноклассники |
+| Google | gmail | GMail |
+| Yandex | yandex | Yandex |
+| Avito | avito | Avito |
+| Youla | youla | Youla |
+| Viber | viber | Viber |
+| WhatsApp | whatsapp | WhatsApp |
+| Telegram | telegram | Telegram |
+| FastFriend | drugvokrug | ДругВокруг |
+| Instagram | instagram | Instagram |
+| WeChat | wechat | WeChat |
+| Steam | steam | Steam |
+| Uber | uber | Uber |
+| Microsoft | microsoft | Microsoft |
