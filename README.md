@@ -1,6 +1,8 @@
 # OnlineSIM
 An OnlineSIM API Wrapper
 
+# [Available on nuget](https://www.nuget.org/packages/OnlineSIM/)
+
 # Documentation
 
 ## Namespace
