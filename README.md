@@ -41,6 +41,8 @@ string code = [Class].GetReceivedCode(tzid) // return received code
 
 # Phone Number infos
 
+| Alias 1 | Alias 2 | Service
+| --- | --- | --- | --- |
 | VKcom | vk | Вконтакте |
 | 3223 | facebook | Facebook | 
 | MailRu | mailru | MailRu | 
